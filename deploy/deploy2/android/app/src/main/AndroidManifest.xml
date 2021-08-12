@@ -2,7 +2,7 @@
     package="com.example.deploy2">
    <application
         android:label="deploy2"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/fly">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
